@@ -6,7 +6,7 @@
 
 # Social Media
 
-- https://www.linkedin.com/in/aguirre14/
+- LinkedIn: https://www.linkedin.com/in/aguirre14/
   
 
 
