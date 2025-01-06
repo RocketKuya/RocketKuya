@@ -1,8 +1,8 @@
 <h1>Hi, I'm Nathaniel! 
 
-<h2>👨‍💻 CyberSecurity Certificate Portfolios:</h2>
+<h2>👨‍💻 CyberSecurity </h2>
 
-- <b>Portfolio 1: Draft a Professional Statement  </b>
-  - 
+- <b>Google Cybersecurity Professional Certificate Course Activities</b>
+  
 
 
