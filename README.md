@@ -6,7 +6,7 @@
 
 # Certifications
 
-- <b>Splunk Certifications</b>
+- <b>Splunk Certifications(https://github.com/RocketKuya/SplunkCertifications/tree/main)</b>
 
 # Social Media
 
