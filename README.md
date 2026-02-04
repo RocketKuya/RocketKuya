@@ -6,7 +6,7 @@
 
 # Projects
 
-- <b>Splunk Certifications (https://github.com/RocketKuya/Python/tree/main)</b>
+- <b>Python (https://github.com/RocketKuya/Python/tree/main)</b>
 
 # Social Media
 
